@@ -150,3 +150,5 @@ Todos:
 7. Adding a randomize button or, even better, having a simple meta rule to mutate the initial rule continously and recursively. This way the patterns will never get stuck on a local maximum and will keep changing!
 8. A better way to fine-tune is to use an evolutionary algorithm to select and optimize the parameters but one needs to write a fitness function for that. I currently don't know what fitness function corresponds to in the realm of this program. In our world the fitness function is competition and survival of the fittest. However, here we fine-tune and select the parameters that produce interesting patterns for us but the word "interesting" is easier to say than to define!
 
+Setting up environment:
+--------------------
